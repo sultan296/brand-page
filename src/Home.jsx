@@ -12,12 +12,12 @@ function Home() {
         </div>
         <span className='text-sm'>Also Available On</span>
         <div className='flex gap-5 shopping-icon '>
-        <img src="./src/assets/flipkart.png" alt="" className='size-10 hover:cursor-pointer' />
-        <img src="./src/assets/amazon.png" alt="" className='size-10 hover:cursor-pointer' /> 
+        <img src="./assets/flipkart.png" alt="" className='size-10 hover:cursor-pointer' />
+        <img src="./assets/amazon.png" alt="" className='size-10 hover:cursor-pointer' /> 
         </div>
       </div >
       <div className='grid place-items-center shoe'>
-        <img src="./src/assets/shoe_image.png" alt="" className='w-6xl amazon hover:cursor-pointer hover:opacity-90' />
+        <img src="./assets/shoe_image.png" alt="" className='w-6xl amazon hover:cursor-pointer hover:opacity-90' />
       </div>
     </div>
   )

@@ -4,7 +4,7 @@ function Header() {
   return (
     <div>
       <nav className='flex justify-between items-center h-15'>
-        <img src="./src/assets/brand_logo.png" alt="" className='size-fit'/>
+        <img src="./assets/brand_logo.png" alt="" className='size-fit'/>
         <ul className='flex text-md font-semibold gap-5'>
             <li>Menu</li>
             <li>Location</li>
